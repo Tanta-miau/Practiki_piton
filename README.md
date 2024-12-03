@@ -4,4 +4,4 @@
 (ничево не понятно, но вот женщина)
 
 
-![](https://github.com/Tanta-miau/Practiki_piton/blob/main/анимеее.gif)
+![](https://github.com/Tanta-miau/Practiki_piton/blob/main/фф.gif)
