@@ -2,5 +2,6 @@
 
 
 (ничево не понятно, но вот аниме)
+
 Adding GIFs in README.md files
 ![](https://github.com/Tanta-miau/Practiki_piton/blob/main/анимеее.gif)
